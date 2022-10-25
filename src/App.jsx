@@ -128,7 +128,7 @@ function App() {
                   <div>
 
                     <h3 className="font-bold">
-                      Logo design for Bakery
+                      <a href="#">Logo design for Bakery</a>
                     </h3>
 
                     <p className="text-gray-500">
@@ -142,7 +142,7 @@ function App() {
                 <div className="flex items-center gap-4">
 
                   <img
-                    src="/src/images/profile-5.jpg"
+                    src="https://images.unsplash.com/photo-1615813967515-e1838c1c5116?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=687&q=80"
                     alt="Profile picture"
                     className="w-14 h-14 object-cover rounded-full"
                   />
@@ -150,7 +150,7 @@ function App() {
                   <div>
 
                     <h3 className="font-bold">
-                      Banner design for E-Commerce
+                      <a href="#">Banner design for E-Commerce</a>
                     </h3>
 
                     <p className="text-gray-500">

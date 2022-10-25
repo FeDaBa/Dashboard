@@ -120,7 +120,7 @@ function App() {
                 <div className="flex items-center gap-4 mb-8">
 
                   <img
-                    src="/src/images/profile-2.jpg"
+                    src="https://images.unsplash.com/photo-1438761681033-6461ffad8d80?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1470&q=80"
                     alt="Profile picture"
                     className="w-14 h-14 object-cover rounded-full"
                   />
@@ -192,7 +192,7 @@ function App() {
                 <div className="col-span-2 flex items-center gap-4">
 
                   <img
-                    src="src/images/profile-3.jpg"
+                    src="https://images.unsplash.com/photo-1580489944761-15a19d654956?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=761&q=80"
                     className="w-14 h-14 object-cover rounded-full"
                   />
 
@@ -231,7 +231,7 @@ function App() {
                 <div className="col-span-2 flex items-center gap-4">
 
                   <img
-                    src="src/images/profile-4.jpg"
+                    src="https://images.unsplash.com/photo-1500648767791-00dcc994a43e?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=687&q=80"
                     className="w-14 h-14 object-cover rounded-full"
                   />
 
@@ -304,7 +304,7 @@ function App() {
                 <div className="flex items-center gap-4">
 
                   <img
-                    src="src/images/profile-6.jpg"
+                    src="https://images.unsplash.com/photo-1560250097-0b93528c311a?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=687&q=80"
                     className="w-14 h-14 object-cover rounded-full"
                   />
 

@@ -40,7 +40,7 @@ function App() {
               </span>
 
               <span className="py-1 px-3 bg-primary-300/50 rounded-3xl text-center">
-                +10% since last month
+                + 10% since last month
               </span>
 
             </div>
@@ -198,9 +198,13 @@ function App() {
 
                   <div>
 
-                    <h3 className="font-bold">Jane Watts</h3>
+                    <h3 className="font-bold">
+                      <a href="#">Jane Watts</a>
+                    </h3>
 
-                    <p className="text-gray-500">JQ Holdings</p>
+                    <p className="text-gray-500">
+                      <a href="#"> JQ Holdings</a>
+                    </p>
 
                   </div>
 
@@ -237,9 +241,13 @@ function App() {
 
                   <div>
 
-                    <h3 className="font-bold">Jhon Philips</h3>
+                    <h3 className="font-bold">
+                       <a href="#">Jhon Philips</a>
+                    </h3>
 
-                    <p className="text-gray-500">Inchor Techs</p>
+                    <p className="text-gray-500">
+                      <a href="#">Inchor Techs</a>
+                    </p>
 
                   </div>
 
@@ -310,9 +318,13 @@ function App() {
 
                   <div>
 
-                    <h3 className="font-bold">Thomas Martin</h3>
+                    <h3 className="font-bold">
+                       <a href="#">Thomas Martin</a>
+                    </h3>
 
-                    <p className="text-gray-500">Updated 10m ago</p>
+                    <p className="text-gray-500">
+                      Updated 10m ago
+                    </p>
 
                   </div>
 
